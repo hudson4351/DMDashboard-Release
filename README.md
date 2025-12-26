@@ -15,6 +15,9 @@ Because this is an independently developed hobby project, Windows may display a 
 **To bypass this:**
 1. On the blue warning screen, click **"More info"**.
 2. Click the **"Run anyway"** button that appears at the bottom.
+| Step 1: Click More Info | Step 2: Click Run Anyway |
+| :---: | :---: |
+| <img src="DM Dashboard - more info.jpg" width="400"> | <img src="DM Dashboard - run anyway.jpg" width="400"> |
 
 
 
