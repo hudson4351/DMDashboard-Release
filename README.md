@@ -14,7 +14,7 @@
 * Roll saving throws
 * Add/track conditions, including optional reminder popups
 * Track PC’s hit points, hit dice, death saving throws, AC, passive perception, and ability scores
-* Track monster’s recharge actions, spell slots, and saving throw proficiencies
+* Track monsters' recharge actions, spell slots, and saving throw proficiencies
 * Add monsters under the control of PCs (familiars, minions, hirelings, etc.)
 * Add characters/monsters to an encounter in progress
 * Log XP of defeated monsters
