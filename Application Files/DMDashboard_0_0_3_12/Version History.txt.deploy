@@ -1,0 +1,34 @@
+0.0.2.3
+
+	- Made comboBoxes that display combatant names display them sorted
+
+	- Fixed GUI issues (notification popup windows moving behind context menus)
+
+	- Fixed death saving throw bug (results weren't being deleted when a creature was stabilized)
+
+	- Fixed active combatant highlighting issue: if the active combatant was killed it would be highlighted red, 
+	  then if it was healed it would still be highlighted red; the active combatant should always be highlighted green
+
+	- Added group saving throw feature
+
+	- Added dependent/target pointers and labels to "Dead" condition; saving a session in which a PC had the "Dead" condition
+	  was sometimes causing crashes.
+
+	- Fixed bug in which program would crash if a session was saved with only a character or monster DB specified, 
+	  and then the user attempted to load a DB of the other type
+
+	- Fixed bug in which a session saved containing one or more PCs with death saving throw results would not load
+
+	- Added ability to copy existing creatures to new creatures in the monster and character DBs
+
+	- Added check for latest version
+
+	- Made more fields of the monster DB entry form multiline
+
+	- Fixed CellValidating bug in the man DMDashboard Form
+
+	- Added "Skills" heading to monster DB info string
+
+0.0.1.5
+
+	- First public release; consider this a beta version
