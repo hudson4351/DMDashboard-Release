@@ -59,12 +59,12 @@ Because this is an independently developed hobby project, Windows may display a 
 
 | Main View | Encounter Builder |
 | :---: | :---: |
-| <img src="screenshots/main-dashboard.png" width="400"> | <img src="screenshots/sqlite-manager.png" width="400"> |
+| <img src="screenshots/main_screen.JPG" width="400"> | <img src="screenshots/encounter_builder.JPG" width="400"> |
 | *Main view showing party stats and current encounter* | *Monster database and encounter builder* |
 
 | Monster Database | Condition Editor |
 | :---: | :---: |
-| <img src="screenshots/update-prompt.png" width="400"> | <img src="screenshots/settings-view.png" width="400"> |
+| <img src="screenshots/monster_db_editor.JPG" width="400"> | <img src="screenshots/condition_management.JPG" width="400"> |
 | *Create and store monsters* | *Create and track conditions* |
 
 ---
