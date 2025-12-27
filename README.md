@@ -107,6 +107,10 @@ If the app still won't launch, ensure you have the **[.NET Framework 4.8.1 Runti
 
 ---
 
+## What's New in v0.0.4
+
+---
+
 ## Feedback & Support
 
 Found a bug? Have an idea for a new feature?
