@@ -42,8 +42,6 @@ Choose the installation method that works best for you:
 **Best for:** Standard Windows installation with automatic updates.
 * **[Click here to Install DMDashboard](https://hudson4351.github.io/DMDashboard-Release/setup.exe)**
 
----
-
 ### Option 2: Portable Version (.zip)
 **Best for:** Running the app without installation (USB drives, restricted permissions).
 * **[Download Latest ZIP Release](https://github.com/hudson4351/DMDashboard-Release/releases/latest)**
