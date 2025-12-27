@@ -106,6 +106,8 @@ Found a bug? Have an idea for a new feature?
 
 **Note:** When reporting a bug, please mention your Windows version and if you saw any specific error messages (screenshots are always helpful!).
 
+---
+
 ## License
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for the full legal text.
 
