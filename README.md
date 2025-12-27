@@ -44,10 +44,10 @@ Choose the method that works best for your setup:
 1. **[Click here to Install DMDashboard](https://hudson4351.github.io/DMDashboard-Release/setup.exe)**
 2. Follow the on-screen prompts to complete the installation.
 3. Once the app launches, go to **Help > Setup > Copy Help/Sample Files**.
-   * *This will copy the sample databases and the Word Tutorial to **My Documents\DMDashboard** folder for easy access.*
-4. Click **Database > Load > Character Database** and choose **My Documents\DMDashboard\Samples\sample_characters.db3**
-5. Click **Database > Load > Monster Database** and choose **My Documents\DMDashboard\Samples\sample_monsters.db3**
-6. Open the **My Documents\DMDashboard\Tutorial\DM Dashboard Tutorial.docx** file for detailed usage instructions, or just start using the app.
+   * *This will copy the sample databases and the Word Tutorial to **Documents\DMDashboard** folder for easy access.*
+4. Click **Database > Load > Character Database** and choose **Documents\DMDashboard\Samples\sample_characters.db3**
+5. Click **Database > Load > Monster Database** and choose **Documents\DMDashboard\Samples\sample_monsters.db3**
+6. Open the **Documents\DMDashboard\Tutorial\DM Dashboard Tutorial.docx** file for detailed usage instructions, or just start using the app.
 
 ---
 
