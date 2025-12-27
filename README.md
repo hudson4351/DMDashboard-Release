@@ -1,5 +1,5 @@
-[![Language](https://img.shields.io/badge/Language-C%23-blue.svg)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![Framework](https://img.shields.io/badge/Framework-.NET%208.0-purple.svg)](https://dotnet.microsoft.com/download)
+[![Language](https://img.shields.io/badge/Language-C%23-blue.svg)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Framework](https://img.shields.io/badge/Framework-.NET%20Framework%204.8.1-blue.svg)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
 [![Database](https://img.shields.io/badge/Database-SQLite-003b57.svg)](https://www.sqlite.org/)
 
 # DMDashboard Release Page
@@ -117,6 +117,8 @@ Found a bug? Have an idea for a new feature?
 
 **Note:** When reporting a bug, please mention your Windows version and if you saw any specific error messages (screenshots are always helpful!).
 
+**Data Backups:** Since your data is stored in local .db files, always make a copy of your database before updating to a new version to ensure your data is safe.
+
 ---
 
 ## License & Security
@@ -125,4 +127,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 * **Summary:** You are free to use, copy, and share this software.
 * **Liability:** This software is provided **"as-is"** without any warranty. The author is not responsible for any data loss or issues resulting from its use.
 * **Privacy:** This application does not collect or transmit any personal data. All data is stored locally on your machine.
-* **Safety:** Every release is scanned via VirusTotal. You can find the latest scan report and SHA-256 checksums in the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases) section.
+* **Safety:** Every release is scanned via VirusTotal. You can find the latest scan report and SHA-256 checksums in the [Releases](https://github.com/hudson4351/DMDashboard-Release/releases) section.
