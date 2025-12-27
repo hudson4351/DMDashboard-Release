@@ -26,7 +26,7 @@
 | Main View | Encounter Builder |
 | :---: | :---: |
 | <img src="screenshots/main_screen.JPG" width="400"> | <img src="screenshots/encounter_builder.JPG" width="400"> |
-| *Main view showing party stats and current encounter* | *Monster database and encounter builder* |
+| *Main view showing party stats and current encounter* | *Create and save encounters* |
 
 | Monster Database | Condition Editor |
 | :---: | :---: |
