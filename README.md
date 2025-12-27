@@ -57,7 +57,7 @@ Choose the method that works best for your setup:
 1. **[Download Latest ZIP Release](https://github.com/hudson4351/DMDashboard-Release/releases/latest)**
 2. **Right-click** the downloaded ZIP and select **Extract All...**.
 3. Open the extracted folder and run `DMDashboard.exe`.
-4. 4. Click **Database > Load > Character Database** and choose **sample_characters.db3** from the directory where DMDashboard was extracted.
+4. Click **Database > Load > Character Database** and choose **sample_characters.db3** from the directory where DMDashboard was extracted.
 5. Click **Database > Load > Monster Database** and choose **sample_monsters.db3** from the directory where DMDashboard was extracted.
 6. Open the **DM Dashboard Tutorial.docx** file from the directory where DMDashboard was extracted for detailed usage instructions, or just start using the app.
    * **Note:** Ensure the `x64` and `x86` folders remain in the same directory as the `.exe` for database support.
