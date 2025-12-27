@@ -1,5 +1,6 @@
-![Built with C#](https://img.shields.io/badge/Built%20with-C%23-%23178600?style=flat-square&logo=c-sharp)
-![Platform .NET](https://img.shields.io/badge/Platform-.NET%208.0-blue?style=flat-square)
+[![Language](https://img.shields.io/badge/Language-C%23-blue.svg)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Framework](https://img.shields.io/badge/Framework-.NET%208.0-purple.svg)](https://dotnet.microsoft.com/download)
+[![Database](https://img.shields.io/badge/Database-SQLite-003b57.svg)](https://www.sqlite.org/)
 
 # DMDashboard Release Page
 
