@@ -35,22 +35,27 @@
 
 ---
 
-## Installation
-Choose the installation method that works best for you:
+## Getting Started
+Choose the method that works best for your setup:
 
 ### Option 1: ClickOnce Installer
 **Best for:** Standard Windows installation with automatic updates.
-* **[Click here to Install DMDashboard](https://hudson4351.github.io/DMDashboard-Release/setup.exe)**
+
+1. **[Click here to Install DMDashboard](https://hudson4351.github.io/DMDashboard-Release/setup.exe)**
+2. Follow the on-screen prompts to complete the installation.
+3. Once the app launches, go to **Menu > Setup > Copy Samples**.
+   * *This will copy the sample databases and the Word Tutorial to your **My Documents** folder for easy access.*
+
+---
 
 ### Option 2: Portable Version (.zip)
 **Best for:** Running the app without installation (USB drives, restricted permissions).
-* **[Download Latest ZIP Release](https://github.com/hudson4351/DMDashboard-Release/releases/latest)**
 
-**How to use the Portable version:**
-1. Download the `DMDashboard-vX.X.X.X.zip` from the **Assets** section of the latest release.
+1. **[Download Latest ZIP Release](https://github.com/hudson4351/DMDashboard-Release/releases/latest)**
 2. **Right-click** the downloaded ZIP and select **Extract All...**.
 3. Open the extracted folder and run `DMDashboard.exe`.
-4. *Note: Ensure the `x64` and `x86` folders remain in the same directory as the .exe for database support.*
+   * *The sample databases and tutorial are located directly in the extracted folder.*
+   * **Note:** Ensure the `x64` and `x86` folders remain in the same directory as the `.exe` for database support.
 
 ---
 
