@@ -1,11 +1,25 @@
-# 🛡️ DMDashboard Release Page
+# DMDashboard Release Page
 
-Welcome to the official release repository for **DMDashboard**. This page hosts the installation files and update manifests for the application.
+**DMDashboard** is a Windows app used to automate many of the bookkeeping tasks required of DMs when running D&D 5E. This page is used to manage releases. 
 
-## 📥 How to Install
+## Features
+* Build/load/save/edit/run encounters
+* Build/edit monster and character databases
+* Save/load sessions
+* Roll/sort by initiative
+* Roll saving throws
+* Add/track conditions, including optional reminder popups
+* Track PC’s hit points, hit dice, death saving throws, AC, passive perception, and ability scores
+* Track monster’s recharge actions, spell slots, and saving throw proficiencies
+* Add monsters under the control of PCs (familiars, minions, hirelings, etc.)
+* Add characters/monsters to an encounter in progress
+* Log XP of defeated monsters
+* View party status summary
+
+## Installation
 Choose the installation method that works best for you:
 
-### Option 1: ClickOnce Installer (Recommended)
+### Option 1: ClickOnce Installer
 **Best for:** Standard Windows installation with automatic updates.
 * **[Click here to Install DMDashboard](https://hudson4351.github.io/DMDashboard-Release/setup.exe)**
 
@@ -23,7 +37,7 @@ Choose the installation method that works best for you:
 
 ---
 
-## ⚠️ Security Instructions (Windows SmartScreen)
+## Security Instructions (Windows SmartScreen)
 Because this is an independently developed hobby project, Windows may display a blue warning screen during installation and/or at runtime that says **"Windows protected your PC."** **Don't worry!** This happens simply because the app is not signed with a $300/year "verified publisher" certificate. The app is safe to run.
 
 **To bypass this:**
@@ -38,6 +52,6 @@ Because this is an independently developed hobby project, Windows may display a 
 
 ---
 
-## 🛠️ Requirements
+## Requirements
 * **Windows 10/11**
 * **.NET Framework 4.8.1** (The installer will prompt you to download this if you don't have it).
