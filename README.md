@@ -69,6 +69,28 @@ Because this is an independently developed hobby project, Windows may display a 
 
 ---
 
-## Requirements
-* **Windows 10/11**
-* **.NET Framework 4.8.1** (The installer will prompt you to download this if you don't have it).
+## Troubleshooting
+
+### **The app fails to start or "vanishes" on launch**
+Windows often places a "Mark of the Web" lock on files downloaded from the internet. This can prevent the application or its database components from loading correctly.
+
+1. **Right-click** the downloaded `DMDashboard.zip` file.
+2. Select **Properties**.
+3. Under the **General** tab (at the bottom), check the **Unblock** box.
+4. Click **Apply**, then extract the files and try running the app again.
+
+### **Missing Database / SQLite Errors**
+This application uses a local SQLite database which requires specific "native" files to run. If you see an error regarding `SQLite.Interop.dll` or a "Database not found" message:
+
+* Ensure you have extracted **all** files from the ZIP, not just the `.exe`.
+* Verify that the `x86` and `x64` folders are present in the same directory as `DMDashboard.exe`.
+* Ensure the `DMDashboard.exe.config` file is present in the main folder.
+
+### **Still having trouble?**
+If the app still won't launch, ensure you have the **[.NET Framework 4.8.1 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)** installed.
+
+## System Requirements
+* **Operating System:** Windows 10 or 11
+* **Runtime:** [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
+  * *Note: Most modern Windows PCs have this. If missing, the app will prompt you, or you can use the link above.*
+* **Architecture:** x64 / x86
