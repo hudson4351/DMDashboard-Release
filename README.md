@@ -108,6 +108,7 @@ If the app still won't launch, ensure you have the **[.NET Framework 4.8.1 Runti
 ---
 
 ## What's New in v0.0.4
+* Initial public release
 
 ---
 
@@ -117,11 +118,11 @@ Found a bug? Have an idea for a new feature?
 
 * **Report a Bug:** Please [open a new Issue](https://github.com/hudson4351/DMDashboard-Release/issues/new) and describe the steps to reproduce the problem.
 * **Feature Requests:** If there is something you'd like to see added to the dashboard, feel free to suggest it in the [Issues tab](https://github.com/hudson4351/DMDashboard-Release/issues).
-* **Show Support:** If you find this tool helpful, please give this repo a ⭐—it helps me know people are using it!
 
 **Note:** When reporting a bug, please mention your Windows version and if you saw any specific error messages (screenshots are always helpful!).
 
-**Data Backups:** Since your data is stored in local .db files, always make a copy of your database before updating to a new version to ensure your data is safe.
+* **Data Backups:** Since your data is stored in local .db files, always make a copy of your database before updating to a new version to ensure your data is safe.
+* **Show Support:** If you find this tool helpful, please give this repo a ⭐—it helps me know people are using it!
 
 ---
 
