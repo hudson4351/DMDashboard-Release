@@ -1,3 +1,6 @@
+![Built with C#](https://img.shields.io/badge/Built%20with-C%23-%23178600?style=flat-square&logo=c-sharp)
+![Platform .NET](https://img.shields.io/badge/Platform-.NET%208.0-blue?style=flat-square)
+
 # DMDashboard Release Page
 
 **DMDashboard** is a Windows app used to automate many of the bookkeeping tasks required of DMs when running D&D 5E. This page is used to manage releases. 
