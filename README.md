@@ -105,3 +105,9 @@ Found a bug? Have an idea for a new feature?
 * **Feature Requests:** If there is something you'd like to see added to the dashboard, feel free to suggest it in the [Issues tab](https://github.com/hudson4351/DMDashboard-Release/issues).
 
 **Note:** When reporting a bug, please mention your Windows version and if you saw any specific error messages (screenshots are always helpful!).
+
+## License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for the full legal text.
+
+* **Summary:** You are free to use, copy, and share this software. 
+* **Liability:** Provided "as-is" without any warranty.
