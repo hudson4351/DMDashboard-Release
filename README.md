@@ -4,7 +4,7 @@
 
 # DMDashboard Release Page
 
-**DMDashboard** is a Windows app used to automate many of the bookkeeping tasks required of DMs when running D&D 5E. This page is used to manage releases. 
+**DMDashboard** is a Windows app used to automate many of the bookkeeping tasks required of DMs when running D&D 5E. This repository serves as the official distribution point for compiled releases.
 
 ## Features
 * Build/load/save/edit/run encounters
