@@ -50,7 +50,7 @@ Because this is an independently developed hobby project, Windows may display a 
 
 | Step 1: Click More Info | Step 2: Click Run Anyway |
 | :---: | :---: |
-| <img src="DMDashboard%20-%20more%20info.JPG" width="100%"> | <img src="DMDashboard%20-%20run%20anyway.JPG" width="100%"> |
+| <img src="screenshots/DMDashboard%20-%20more%20info.JPG" width="100%"> | <img src="screenshots/DMDashboard%20-%20run%20anyway.JPG" width="100%"> |
 
 
 
