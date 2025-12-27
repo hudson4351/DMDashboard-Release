@@ -103,6 +103,7 @@ Found a bug? Have an idea for a new feature?
 
 * **Report a Bug:** Please [open a new Issue](https://github.com/hudson4351/DMDashboard-Release/issues/new) and describe the steps to reproduce the problem.
 * **Feature Requests:** If there is something you'd like to see added to the dashboard, feel free to suggest it in the [Issues tab](https://github.com/hudson4351/DMDashboard-Release/issues).
+* **Show Support:** If you find this tool helpful, please give this repo a ⭐—it helps me know people are using it!
 
 **Note:** When reporting a bug, please mention your Windows version and if you saw any specific error messages (screenshots are always helpful!).
 
