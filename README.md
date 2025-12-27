@@ -21,6 +21,20 @@
 * View party status summary
 * Automatic updates
 
+## Gallery
+
+| Main View | Encounter Builder |
+| :---: | :---: |
+| <img src="screenshots/main_screen.JPG" width="400"> | <img src="screenshots/encounter_builder.JPG" width="400"> |
+| *Main view showing party stats and current encounter* | *Monster database and encounter builder* |
+
+| Monster Database | Condition Editor |
+| :---: | :---: |
+| <img src="screenshots/monster_db_editor.JPG" width="400"> | <img src="screenshots/condition_management.JPG" width="400"> |
+| *Create and store monsters* | *Create and track conditions* |
+
+---
+
 ## Installation
 Choose the installation method that works best for you:
 
@@ -52,20 +66,6 @@ Because this is an independently developed hobby project, Windows may display a 
 | Step 1: Click More Info | Step 2: Click Run Anyway |
 | :---: | :---: |
 | <img src="screenshots/DMDashboard%20-%20more%20info.JPG" width="100%"> | <img src="screenshots/DMDashboard%20-%20run%20anyway.JPG" width="100%"> |
-
----
-
-## Gallery
-
-| Main View | Encounter Builder |
-| :---: | :---: |
-| <img src="screenshots/main_screen.JPG" width="400"> | <img src="screenshots/encounter_builder.JPG" width="400"> |
-| *Main view showing party stats and current encounter* | *Monster database and encounter builder* |
-
-| Monster Database | Condition Editor |
-| :---: | :---: |
-| <img src="screenshots/monster_db_editor.JPG" width="400"> | <img src="screenshots/condition_management.JPG" width="400"> |
-| *Create and store monsters* | *Create and track conditions* |
 
 ---
 
