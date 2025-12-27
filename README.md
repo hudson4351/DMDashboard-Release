@@ -109,8 +109,10 @@ Found a bug? Have an idea for a new feature?
 
 ---
 
-## License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for the full legal text.
+## License & Security
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for the full legal text.
 
-* **Summary:** You are free to use, copy, and share this software. 
-* **Liability:** Provided "as-is" without any warranty.
+* **Summary:** You are free to use, copy, and share this software.
+* **Liability:** This software is provided **"as-is"** without any warranty. The author is not responsible for any data loss or issues resulting from its use.
+* **Privacy:** This application does not collect or transmit any personal data. All data is stored locally on your machine.
+* **Safety:** Every release is scanned via VirusTotal. You can find the latest scan report and SHA-256 checksums in the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases) section.
