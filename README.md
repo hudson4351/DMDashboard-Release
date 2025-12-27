@@ -69,6 +69,14 @@ Because this is an independently developed hobby project, Windows may display a 
 
 ---
 
+## System Requirements
+* **Operating System:** Windows 10 or 11
+* **Runtime:** [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
+  * *Note: Most modern Windows PCs have this. If missing, the app will prompt you, or you can use the link above.*
+* **Architecture:** x64 / x86
+
+---
+
 ## Troubleshooting
 
 ### **The app fails to start or "vanishes" on launch**
@@ -89,8 +97,13 @@ This application uses a local SQLite database which requires specific "native" f
 ### **Still having trouble?**
 If the app still won't launch, ensure you have the **[.NET Framework 4.8.1 Runtime](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)** installed.
 
-## System Requirements
-* **Operating System:** Windows 10 or 11
-* **Runtime:** [.NET Framework 4.8.1](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net481)
-  * *Note: Most modern Windows PCs have this. If missing, the app will prompt you, or you can use the link above.*
-* **Architecture:** x64 / x86
+---
+
+## Feedback & Support
+
+Found a bug? Have an idea for a new feature?
+
+* **Report a Bug:** Please [open a new Issue](https://github.com/hudson4351/DMDashboard-Release/issues/new) and describe the steps to reproduce the problem.
+* **Feature Requests:** If there is something you'd like to see added to the dashboard, feel free to suggest it in the [Issues tab](https://github.com/hudson4351/DMDashboard-Release/issues).
+
+**Note:** When reporting a bug, please mention your Windows version and if you saw any specific error messages (screenshots are always helpful!).
