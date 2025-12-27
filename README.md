@@ -19,6 +19,7 @@
 * Add characters/monsters to an encounter in progress
 * Log XP of defeated monsters
 * View party status summary
+* Automatic updates
 
 ## Installation
 Choose the installation method that works best for you:
@@ -52,7 +53,19 @@ Because this is an independently developed hobby project, Windows may display a 
 | :---: | :---: |
 | <img src="screenshots/DMDashboard%20-%20more%20info.JPG" width="100%"> | <img src="screenshots/DMDashboard%20-%20run%20anyway.JPG" width="100%"> |
 
+---
 
+## Gallery
+
+| Main View | Encounter Builder |
+| :---: | :---: |
+| <img src="screenshots/main-dashboard.png" width="400"> | <img src="screenshots/sqlite-manager.png" width="400"> |
+| *Main view showing party stats and current encounter* | *Monster database and encounter builder* |
+
+| Monster Database | Condition Editor |
+| :---: | :---: |
+| <img src="screenshots/update-prompt.png" width="400"> | <img src="screenshots/settings-view.png" width="400"> |
+| *Create and store monsters* | *Create and track conditions* |
 
 ---
 
