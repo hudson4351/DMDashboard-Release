@@ -43,7 +43,7 @@ Choose the method that works best for your setup:
 
 1. **[Click here to Install DMDashboard](https://hudson4351.github.io/DMDashboard-Release/setup.exe)**
 2. Follow the on-screen prompts to complete the installation.
-3. Once the app launches, go to **Menu > Setup > Copy Samples**.
+3. Once the app launches, go to **Help > Setup > Copy Help/Sample Files**.
    * *This will copy the sample databases and the Word Tutorial to your **My Documents** folder for easy access.*
 
 ---
